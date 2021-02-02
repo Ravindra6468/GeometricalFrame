@@ -1,0 +1,9 @@
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrameLib\obj\Debug\netcoreapp3.1\GeometricalFrameLib.csprojAssemblyReference.cache
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrameLib\obj\Debug\netcoreapp3.1\GeometricalFrameLib.AssemblyInfoInputs.cache
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrameLib\obj\Debug\netcoreapp3.1\GeometricalFrameLib.AssemblyInfo.cs
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrameLib\obj\Debug\netcoreapp3.1\GeometricalFrameLib.csproj.CoreCompileInputs.cache
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrameLib\bin\Debug\netcoreapp3.1\GeometricalFrameLib.deps.json
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrameLib\bin\Debug\netcoreapp3.1\GeometricalFrameLib.dll
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrameLib\bin\Debug\netcoreapp3.1\GeometricalFrameLib.pdb
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrameLib\obj\Debug\netcoreapp3.1\GeometricalFrameLib.dll
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrameLib\obj\Debug\netcoreapp3.1\GeometricalFrameLib.pdb

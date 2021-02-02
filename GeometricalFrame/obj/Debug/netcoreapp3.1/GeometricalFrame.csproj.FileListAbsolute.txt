@@ -1,0 +1,12 @@
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.exe
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.deps.json
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.runtimeconfig.json
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.runtimeconfig.dev.json
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.dll
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.pdb
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.AssemblyInfoInputs.cache
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.AssemblyInfo.cs
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.csproj.CoreCompileInputs.cache
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.dll
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.pdb
+C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.genruntimeconfig.cache
