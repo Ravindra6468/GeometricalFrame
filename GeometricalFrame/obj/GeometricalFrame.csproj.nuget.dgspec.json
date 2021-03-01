@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LDC_AT_LOCAL\\GeometricalFrame\\GeometricalFrame\\GeometricalFrame.csproj": {}
+    "C:\\Users\\ravindra.neelavara\\Downloads\\GeometricalFrame (2)\\GeometricalFrame\\GeometricalFrame\\GeometricalFrame\\GeometricalFrame.csproj": {}
   },
   "projects": {
-    "C:\\LDC_AT_LOCAL\\GeometricalFrame\\GeometricalFrame\\GeometricalFrame.csproj": {
+    "C:\\Users\\ravindra.neelavara\\Downloads\\GeometricalFrame (2)\\GeometricalFrame\\GeometricalFrame\\GeometricalFrame\\GeometricalFrame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LDC_AT_LOCAL\\GeometricalFrame\\GeometricalFrame\\GeometricalFrame.csproj",
+        "projectUniqueName": "C:\\Users\\ravindra.neelavara\\Downloads\\GeometricalFrame (2)\\GeometricalFrame\\GeometricalFrame\\GeometricalFrame\\GeometricalFrame.csproj",
         "projectName": "GeometricalFrame",
-        "projectPath": "C:\\LDC_AT_LOCAL\\GeometricalFrame\\GeometricalFrame\\GeometricalFrame.csproj",
+        "projectPath": "C:\\Users\\ravindra.neelavara\\Downloads\\GeometricalFrame (2)\\GeometricalFrame\\GeometricalFrame\\GeometricalFrame\\GeometricalFrame.csproj",
         "packagesPath": "C:\\Users\\ravindra.neelavara\\.nuget\\packages\\",
-        "outputPath": "C:\\LDC_AT_LOCAL\\GeometricalFrame\\GeometricalFrame\\obj\\",
+        "outputPath": "C:\\Users\\ravindra.neelavara\\Downloads\\GeometricalFrame (2)\\GeometricalFrame\\GeometricalFrame\\GeometricalFrame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015048\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -9,10 +9,10 @@ namespace GeometricalFrameTest
     /// This class verifies the given coordinates will construct a frame 
     /// in 4th quadrant in the Geometrical frame or not based on the requirement
     /// </summary>
-    public class GeometricalFrameLibTest
+    public class FrameLibTest
     {
 
-        private GeometricalFrame _geometricalFrame;
+        private GeometricalFrameManager _geometricalFrameManager;
 
         /// <summary>
         /// Test setup
@@ -20,7 +20,7 @@ namespace GeometricalFrameTest
         [SetUp]
         public void Setup()
         {
-            _geometricalFrame = new GeometricalFrame();
+            _geometricalFrameManager = new GeometricalFrameManager();
         }
 
 
@@ -30,7 +30,7 @@ namespace GeometricalFrameTest
         [TearDown]
         public void CleanUp()
         {
-            _geometricalFrame = null;
+            _geometricalFrameManager = null;
         }
 
 
@@ -40,7 +40,7 @@ namespace GeometricalFrameTest
         [Test]
         public void AddFrameWithValidCoordinates()
         {
-            bool frameAdded = _geometricalFrame.AddFrame(10, -10);
+            bool frameAdded = _geometricalFrameManager.AddFrame(10, -10);
             Assert.AreEqual(frameAdded, true);
         }
 
@@ -50,7 +50,7 @@ namespace GeometricalFrameTest
         [Test]
         public void AddFrameWithValidDecimalCoordinates()
         {
-            bool frameAdded = _geometricalFrame.AddFrame(20.5, -10.5);
+            bool frameAdded = _geometricalFrameManager.AddFrame(20.5, -10.5);
             Assert.AreEqual(frameAdded, true);
         }
 
@@ -60,7 +60,7 @@ namespace GeometricalFrameTest
         [Test]
         public void AddFrameWithValidMinimalDecimalCoordinates()
         {
-            bool frameAdded = _geometricalFrame.AddFrame(.5, -.6);
+            bool frameAdded = _geometricalFrameManager.AddFrame(.5, -.6);
             Assert.AreEqual(frameAdded, true);
         }
 
@@ -70,7 +70,7 @@ namespace GeometricalFrameTest
         [Test]
         public void AddFrameWithInvalidCoordinates()
         {
-            bool actualResult = _geometricalFrame.AddFrame(-10, -10);
+            bool actualResult = _geometricalFrameManager.AddFrame(-10, -10);
             Assert.AreEqual(actualResult, false);
         }
 
@@ -80,7 +80,7 @@ namespace GeometricalFrameTest
         [Test]
         public void AddFrameWithInvalidDecimalCoordinates()
         {
-            bool actualResult = _geometricalFrame.AddFrame(-10.8, -20.5);
+            bool actualResult = _geometricalFrameManager.AddFrame(-10.8, -20.5);
             Assert.AreEqual(actualResult, false);
         }
 
@@ -90,7 +90,7 @@ namespace GeometricalFrameTest
         [Test]
         public void AddFrameWithInValidCoordinatesReturnsFalse()
         {
-            bool frameAdded = _geometricalFrame.AddFrame(0, 0);
+            bool frameAdded = _geometricalFrameManager.AddFrame(0, 0);
             Assert.AreEqual(frameAdded, false);
         }
 
@@ -101,7 +101,7 @@ namespace GeometricalFrameTest
         [Test]
         public void AddFrameWithInValidCoordinates_NegativePositive_ReturnsFalse()
         {
-            bool frameAdded = _geometricalFrame.AddFrame(-10,10);
+            bool frameAdded = _geometricalFrameManager.AddFrame(-10,10);
             Assert.AreEqual(frameAdded, false);
         }
 
@@ -111,11 +111,11 @@ namespace GeometricalFrameTest
         [Test]
         public void AddFrameWithValidCoordinatesDuplicateCheckReturnsFalse()
         {
-            bool frameAdded = _geometricalFrame.AddFrame(15, -15);
+            bool frameAdded = _geometricalFrameManager.AddFrame(15, -15);
             Assert.AreEqual(frameAdded, true);
 
             //Try to add duplicate frame returns false
-            bool duplicateframeAdded = _geometricalFrame.AddFrame(15, -15);
+            bool duplicateframeAdded = _geometricalFrameManager.AddFrame(15, -15);
             Assert.AreEqual(duplicateframeAdded, false);
         }
 
@@ -125,11 +125,11 @@ namespace GeometricalFrameTest
         [Test]
         public void AddFrameWithValidCoordinatesDecimalDuplicateCheckReturnsFalse()
         {
-            bool frameAdded = _geometricalFrame.AddFrame(35.5, -15);
+            bool frameAdded = _geometricalFrameManager.AddFrame(35.5, -15);
             Assert.AreEqual(frameAdded, true);
 
             //Try to add duplicate frame returns false
-            bool duplicateframeAdded = _geometricalFrame.AddFrame(15.0, -15.0);
+            bool duplicateframeAdded = _geometricalFrameManager.AddFrame(15.0, -15.0);
             Assert.AreEqual(duplicateframeAdded, false);
         }
 
@@ -139,8 +139,9 @@ namespace GeometricalFrameTest
         [Test]
         public void ModifyFrameWithValidCoordinates()
         {
-            _geometricalFrame.FrameAdded = true;
-            bool frameModified = _geometricalFrame.ModifyFrame(10, -10);
+            //Add Frame and test Modify
+            bool frameAdded = _geometricalFrameManager.AddFrame(10, -10);
+            bool frameModified = _geometricalFrameManager.ModifyFrame(10, -12);
             Assert.AreEqual(frameModified, true);
         }
 
@@ -150,8 +151,9 @@ namespace GeometricalFrameTest
         [Test]
         public void ModifyFrameWithValidDecimalCoordinatesReturnsTrue()
         {
-            _geometricalFrame.FrameAdded = true;
-            bool frameModified = _geometricalFrame.ModifyFrame(50.7, -40.2);
+            //Add Frame and test Modify
+            bool frameAdded = _geometricalFrameManager.AddFrame(10, -10);
+            bool frameModified = _geometricalFrameManager.ModifyFrame(50.7, -40.2);
             Assert.AreEqual(frameModified, true);
         }
 
@@ -161,8 +163,9 @@ namespace GeometricalFrameTest
         [Test]
         public void ModifyFrameWithInValid_DecimalCoordinates()
         {
-            _geometricalFrame.FrameAdded = true;
-            bool frameModified = _geometricalFrame.ModifyFrame(0, 0);
+            //Add Frame and test Modify
+            bool frameAdded = _geometricalFrameManager.AddFrame(10, -10);
+            bool frameModified = _geometricalFrameManager.ModifyFrame(0, 0);
             Assert.AreEqual(frameModified, false);
         }
 
@@ -172,8 +175,9 @@ namespace GeometricalFrameTest
         [Test]
         public void ModifyFrameWithValidDecimalCoordinates()
         {
-            _geometricalFrame.FrameAdded = true;
-            bool frameModified = _geometricalFrame.ModifyFrame(13.5, -10);
+            //Add Frame and test Modify
+            bool frameAdded = _geometricalFrameManager.AddFrame(10, -10);
+            bool frameModified = _geometricalFrameManager.ModifyFrame(13.5, -10);
             Assert.AreEqual(frameModified, true);
         }
 
@@ -183,8 +187,9 @@ namespace GeometricalFrameTest
         [Test]
         public void ModifyFrameWithInvalidCoordinates()
         {
-            _geometricalFrame.FrameAdded = true;
-            bool frameModified = _geometricalFrame.ModifyFrame(-10, -10);
+            //Add Frame and test Modify
+            bool frameAdded = _geometricalFrameManager.AddFrame(10, -10);
+            bool frameModified = _geometricalFrameManager.ModifyFrame(-10, -10);
             Assert.AreEqual(frameModified, false);
         }
 
@@ -194,8 +199,9 @@ namespace GeometricalFrameTest
         [Test]
         public void ModifyFrameWithInValidCoordinatesReturnsFalse()
         {
-            _geometricalFrame.FrameAdded = true;
-            bool frameModified = _geometricalFrame.ModifyFrame(.7, 0);
+            //Add Frame and test Modify
+            bool frameAdded = _geometricalFrameManager.AddFrame(10, -10);
+            bool frameModified = _geometricalFrameManager.ModifyFrame(.7, 0);
             Assert.AreEqual(frameModified, false);
         }
 
@@ -205,8 +211,9 @@ namespace GeometricalFrameTest
         [Test]
         public void ModifyFrameWithInValidCoordinates_NegativePositive_ReturnsFalse()
         {
-            _geometricalFrame.FrameAdded = true;
-            bool frameModified = _geometricalFrame.ModifyFrame(-10, 10);
+            //Add Frame and test Modify
+            bool frameAdded = _geometricalFrameManager.AddFrame(10, -10);
+            bool frameModified = _geometricalFrameManager.ModifyFrame(-10, 10);
             Assert.AreEqual(frameModified, false);
         }
 

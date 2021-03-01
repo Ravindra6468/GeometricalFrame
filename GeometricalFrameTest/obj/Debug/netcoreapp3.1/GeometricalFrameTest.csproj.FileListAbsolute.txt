@@ -98,3 +98,203 @@ C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\Ge
 C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Moq.dll
 C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.csproj.CoreCompileInputs.cache
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\GeometricalFrameTest.deps.json
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\GeometricalFrameTest.runtimeconfig.json
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\GeometricalFrameTest.runtimeconfig.dev.json
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\GeometricalFrameTest.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\GeometricalFrameTest.pdb
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\GeometricalFrameLib.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\GeometricalFrameLib.pdb
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.csprojAssemblyReference.cache
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.AssemblyInfoInputs.cache
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.AssemblyInfo.cs
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.csproj.CoreCompileInputs.cache
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.csproj.CopyComplete
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.pdb
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.genruntimeconfig.cache
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.csprojAssemblyReference.cache
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.AssemblyInfoInputs.cache
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.AssemblyInfo.cs
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.csproj.CoreCompileInputs.cache
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.pdb
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\GeometricalFrameTest.deps.json
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\GeometricalFrameTest.runtimeconfig.json
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\GeometricalFrameTest.runtimeconfig.dev.json
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\GeometricalFrameTest.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\GeometricalFrameTest.pdb
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\GeometricalFrameLib.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\bin\Debug\netcoreapp3.1\GeometricalFrameLib.pdb
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.csproj.CopyComplete
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrameTest\obj\Debug\netcoreapp3.1\GeometricalFrameTest.genruntimeconfig.cache

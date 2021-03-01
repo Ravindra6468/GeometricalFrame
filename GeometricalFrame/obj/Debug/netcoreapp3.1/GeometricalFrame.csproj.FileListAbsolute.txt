@@ -10,3 +10,28 @@ C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\Geomet
 C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.dll
 C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.pdb
 C:\LDC_AT_LOCAL\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.genruntimeconfig.cache
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.exe
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.deps.json
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.runtimeconfig.json
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.runtimeconfig.dev.json
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.pdb
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.csprojAssemblyReference.cache
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.AssemblyInfoInputs.cache
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.AssemblyInfo.cs
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.csproj.CoreCompileInputs.cache
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.dll
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.pdb
+C:\Users\shibin.balachandran\Downloads\GeometricalFrame-main\GeometricalFrame-main\GeometricalFrame\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.genruntimeconfig.cache
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.exe
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.deps.json
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.runtimeconfig.json
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.runtimeconfig.dev.json
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrame\bin\Debug\netcoreapp3.1\GeometricalFrame.pdb
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.AssemblyInfoInputs.cache
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.AssemblyInfo.cs
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.csproj.CoreCompileInputs.cache
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.dll
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.pdb
+C:\Users\ravindra.neelavara\Downloads\GeometricalFrame (2)\GeometricalFrame\GeometricalFrame\GeometricalFrame\obj\Debug\netcoreapp3.1\GeometricalFrame.genruntimeconfig.cache

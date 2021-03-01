@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LDC_AT_LOCAL\\GeometricalFrame\\GeometricalFrameTest\\GeometricalFrameTest.csproj": {}
+    "C:\\Users\\ravindra.neelavara\\Downloads\\GeometricalFrame (2)\\GeometricalFrame\\GeometricalFrame\\GeometricalFrameTest\\GeometricalFrameTest.csproj": {}
   },
   "projects": {
-    "C:\\LDC_AT_LOCAL\\GeometricalFrame\\GeometricalFrameLib\\GeometricalFrameLib.csproj": {
+    "C:\\Users\\ravindra.neelavara\\Downloads\\GeometricalFrame (2)\\GeometricalFrame\\GeometricalFrame\\GeometricalFrameLib\\GeometricalFrameLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LDC_AT_LOCAL\\GeometricalFrame\\GeometricalFrameLib\\GeometricalFrameLib.csproj",
+        "projectUniqueName": "C:\\Users\\ravindra.neelavara\\Downloads\\GeometricalFrame (2)\\GeometricalFrame\\GeometricalFrame\\GeometricalFrameLib\\GeometricalFrameLib.csproj",
         "projectName": "GeometricalFrameLib",
-        "projectPath": "C:\\LDC_AT_LOCAL\\GeometricalFrame\\GeometricalFrameLib\\GeometricalFrameLib.csproj",
+        "projectPath": "C:\\Users\\ravindra.neelavara\\Downloads\\GeometricalFrame (2)\\GeometricalFrame\\GeometricalFrame\\GeometricalFrameLib\\GeometricalFrameLib.csproj",
         "packagesPath": "C:\\Users\\ravindra.neelavara\\.nuget\\packages\\",
-        "outputPath": "C:\\LDC_AT_LOCAL\\GeometricalFrame\\GeometricalFrameLib\\obj\\",
+        "outputPath": "C:\\Users\\ravindra.neelavara\\Downloads\\GeometricalFrame (2)\\GeometricalFrame\\GeometricalFrame\\GeometricalFrameLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,18 +55,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015048\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\LDC_AT_LOCAL\\GeometricalFrame\\GeometricalFrameTest\\GeometricalFrameTest.csproj": {
+    "C:\\Users\\ravindra.neelavara\\Downloads\\GeometricalFrame (2)\\GeometricalFrame\\GeometricalFrame\\GeometricalFrameTest\\GeometricalFrameTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LDC_AT_LOCAL\\GeometricalFrame\\GeometricalFrameTest\\GeometricalFrameTest.csproj",
+        "projectUniqueName": "C:\\Users\\ravindra.neelavara\\Downloads\\GeometricalFrame (2)\\GeometricalFrame\\GeometricalFrame\\GeometricalFrameTest\\GeometricalFrameTest.csproj",
         "projectName": "GeometricalFrameTest",
-        "projectPath": "C:\\LDC_AT_LOCAL\\GeometricalFrame\\GeometricalFrameTest\\GeometricalFrameTest.csproj",
+        "projectPath": "C:\\Users\\ravindra.neelavara\\Downloads\\GeometricalFrame (2)\\GeometricalFrame\\GeometricalFrame\\GeometricalFrameTest\\GeometricalFrameTest.csproj",
         "packagesPath": "C:\\Users\\ravindra.neelavara\\.nuget\\packages\\",
-        "outputPath": "C:\\LDC_AT_LOCAL\\GeometricalFrame\\GeometricalFrameTest\\obj\\",
+        "outputPath": "C:\\Users\\ravindra.neelavara\\Downloads\\GeometricalFrame (2)\\GeometricalFrame\\GeometricalFrame\\GeometricalFrameTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\LDC_AT_LOCAL\\GeometricalFrame\\GeometricalFrameLib\\GeometricalFrameLib.csproj": {
-                "projectPath": "C:\\LDC_AT_LOCAL\\GeometricalFrame\\GeometricalFrameLib\\GeometricalFrameLib.csproj"
+              "C:\\Users\\ravindra.neelavara\\Downloads\\GeometricalFrame (2)\\GeometricalFrame\\GeometricalFrame\\GeometricalFrameLib\\GeometricalFrameLib.csproj": {
+                "projectPath": "C:\\Users\\ravindra.neelavara\\Downloads\\GeometricalFrame (2)\\GeometricalFrame\\GeometricalFrame\\GeometricalFrameLib\\GeometricalFrameLib.csproj"
               }
             }
           }
@@ -132,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015048\\RuntimeIdentifierGraph.json"
         }
       }
     }

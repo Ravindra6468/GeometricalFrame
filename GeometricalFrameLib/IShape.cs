@@ -4,18 +4,11 @@ using System.Text;
 
 namespace GeometricalFrameLib
 {
-    public class Point
-    {
-        public double CetnerX;
-        public double CetnerY;
-
-        public Point(double cetnerX, double cetnerY)
-        {
-            CetnerX = cetnerX;
-            CetnerY = cetnerY;
-        }
-    }
     public interface IShape
     {
+        public void MoveShape(Point centreMoveToPoint);
+        public void ResizeShape(double resizeFactor);
+        public void ResizeShape(Point resizeFactor);
+        public void DrawShape();
     }
 }
