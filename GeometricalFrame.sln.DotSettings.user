@@ -1,14 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\ravindra.neelavara\AppData\Local\Temp\JetBrains\ReSharperPlatformVs16\vAny_7c0e67ad\CoverageData\_GeometricalFrame.382939475\Snapshot\snapshot.utdcvr</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aaa42f15_002Da792_002D4845_002D83a3_002D13b5f3513818/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GeometricalFrameLibTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::7CD9A428-8B6F-4378-A6CA-212F884D1BFC::.NETCoreApp,Version=v3.1::GeometricalFrameTest.GeometricalFrameLibTest&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::7CD9A428-8B6F-4378-A6CA-212F884D1BFC::.NETCoreApp,Version=v3.1::GeometricalFrameTest.CirclesTestLib.AddMultipleCircleInFrameWithValidCoordinates&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::7CD9A428-8B6F-4378-A6CA-212F884D1BFC::.NETCoreApp,Version=v3.1::GeometricalFrameTest.CirclesTestLib.AddCircleInFrameWithInValidCoordinates&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::7CD9A428-8B6F-4378-A6CA-212F884D1BFC::.NETCoreApp,Version=v3.1::GeometricalFrameTest.CirclesTestLib.AddCircleInFrameWithValidCoordinatesReturnsTrue&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::7CD9A428-8B6F-4378-A6CA-212F884D1BFC::.NETCoreApp,Version=v3.1::GeometricalFrameTest.CirclesTestLib.AddCircleInFrameWithValidXAxisCoordinateReturnsFalse&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::7CD9A428-8B6F-4378-A6CA-212F884D1BFC::.NETCoreApp,Version=v3.1::GeometricalFrameTest.CirclesTestLib.AddCircleInFrameWithInValidCoordinateReturnsFalseCircleOutsideFrame&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::7CD9A428-8B6F-4378-A6CA-212F884D1BFC::.NETCoreApp,Version=v3.1::GeometricalFrameTest.CirclesTestLib.AddCircleInFrameWithValidCoordinateReturnsTrue_CircleInsideFrameEdgeCase&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::7CD9A428-8B6F-4378-A6CA-212F884D1BFC::.NETCoreApp,Version=v3.1::GeometricalFrameTest.CirclesTestLib.AddCircleInFrameWithValidCoordinate_CircleWithoutRadius_ReturnsFalse&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::7CD9A428-8B6F-4378-A6CA-212F884D1BFC::.NETCoreApp,Version=v3.1::GeometricalFrameTest.CirclesTestLib.AddCircleInFrame_WithValidCoordinates_AddedAgain&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -21,12 +21,6 @@ namespace GeometricalFrameLib
     {
         public double Radius { get; set; }
 
-        public double Height { get; set; }
-
-        public double Width { get; set; }
-
-
-
         public Point NewValue { get; set; }
 
         public ResizeFactor(double radius)
@@ -39,11 +33,9 @@ namespace GeometricalFrameLib
             NewValue =  new Point(width, height);
         }
 
-
         public ResizeFactor(Point newValue)
         {
             this.NewValue = newValue;
         }
-
     }
 }

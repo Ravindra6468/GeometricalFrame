@@ -8,7 +8,7 @@ namespace GeometricalFrameLib
 {
 
     /// <summary>
-    /// This class represents a circle.Responsible for Adding circle inside frame.
+    /// This class represents a circle.
     /// </summary>
    public class Circle : IShape
     {
@@ -33,12 +33,19 @@ namespace GeometricalFrameLib
             this.Radius = radius;
         }
 
-
+        /// <summary>
+        /// responsible for updating center point to new point
+        /// </summary>
+        /// <param name="updatedCenter"></param>
         public void MoveShape(Point updatedCenter)
         {
             this.centerPoint = updatedCenter;
         }
 
+        /// <summary>
+        /// Responsible for resize of circle
+        /// </summary>
+        /// <param name="updatedRadius"></param>
         public void ResizeShape(double updatedRadius)
         {
             if(this.Radius!=updatedRadius)
@@ -48,6 +55,9 @@ namespace GeometricalFrameLib
 
         }
 
+        /// <summary>
+        /// Responsible for drawing circle cordinates
+        /// </summary>
         public void DrawShape()
         {
             Console.WriteLine("Circle cordinates, Center Point:({0},{1}) Radius:{2}",this.centerPoint.x,this.centerPoint.y, this.Radius);

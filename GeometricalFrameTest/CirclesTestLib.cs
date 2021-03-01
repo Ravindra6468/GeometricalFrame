@@ -6,6 +6,9 @@ using System.Linq;
 
 namespace GeometricalFrameTest
 {
+    /// <summary>
+    /// For representing test methods of circle
+    /// </summary>
     public class CirclesTestLib
     {
         private GeometricalFrameManager _frameManager;
@@ -349,6 +352,20 @@ namespace GeometricalFrameTest
             Assert.IsTrue(_frameManager.GetFrame().Circles.FirstOrDefault(x => x.Value == _circle).Value == _circle, " Circle Not Resized");
         }
 
+        ///<summary>
+        /// Draw circle with without frame
+        /// </summary>
+        [Test]
+        public void MoveCircleInFrameWithoutFrame__ReturnsFalse()
+        {
+            _frameManager = new GeometricalFrameManager();
+            Point newcenterPoint = new Point(8, -8);
+            var newCenter = new ResizeFactor(newcenterPoint);
+            var isCircleDrwaninConsole = _frameManager.MoveShapesInsideFrame(_circle, newCenter);
+            Assert.AreEqual(isCircleDrwaninConsole, false);
+
+        }
+
 
         #endregion
 
@@ -374,6 +391,18 @@ namespace GeometricalFrameTest
         [Test]
         public void DrawCircleInFrameWithInValidCircle__ReturnsFalse()
         {
+            var isCircleDrwaninConsole = _frameManager.DrawShapesInsideFrame(_circle);
+            Assert.AreEqual(isCircleDrwaninConsole, false);
+
+        }
+
+        // <summary>
+        /// Draw circle with without frame
+        /// </summary>
+        [Test]
+        public void DrawCircleInFrameWithoutFrame__ReturnsFalse()
+        {
+            _frameManager = new GeometricalFrameManager();
             var isCircleDrwaninConsole = _frameManager.DrawShapesInsideFrame(_circle);
             Assert.AreEqual(isCircleDrwaninConsole, false);
 

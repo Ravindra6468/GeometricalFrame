@@ -5,9 +5,9 @@ using System.Linq;
 namespace GeometricalFrameLib
 {
     /// <summary>
-    /// This class will be responsible for Adding or Modifying the Frame
+    /// This class will be responsible for operations inside frame.
     /// </summary>
-    public class Frame 
+    public class FrameOperations 
     {
         #region Public variables
 
@@ -48,7 +48,7 @@ namespace GeometricalFrameLib
         #endregion
 
         #region Constructor
-        public Frame(double length, double width)
+        public FrameOperations(double length, double width)
         {
             this.XCord = length;
             this.YCord = width;
@@ -62,10 +62,6 @@ namespace GeometricalFrameLib
         #endregion
 
         #region Public methods
-
-
-
-
 
         public bool ModifyFrame(double length, double width)
         {
@@ -106,7 +102,6 @@ namespace GeometricalFrameLib
                 return false;
             }
 
-            //If same circle already present
             else if (shape as Rectangle != null)
             {
                 var rectangle = shape as Rectangle;
@@ -123,6 +118,7 @@ namespace GeometricalFrameLib
 
                 return false;
             }
+            
             return false;
         }
 
@@ -152,6 +148,7 @@ namespace GeometricalFrameLib
                     }                  
                 }
             }
+
             else if (shape as Rectangle != null)
             {
                 var rectangle = shape as Rectangle;
@@ -170,6 +167,7 @@ namespace GeometricalFrameLib
                     }
                 }
             }
+
             return false;
         }
 
@@ -218,6 +216,7 @@ namespace GeometricalFrameLib
                     }
                 }
             }
+
             return false;
         }
 
@@ -241,7 +240,7 @@ namespace GeometricalFrameLib
                 }
             }
 
-            if (shape as Rectangle != null)
+            else if (shape as Rectangle != null)
             {
                 var rectangle = shape as Rectangle;
 
